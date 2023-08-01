@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yt1356)](https://solved.ac/yt1356/)
 <!--
 **Gyu-S/Gyu-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
